@@ -34,5 +34,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "file-loader": "^6.1.1"
+  },
+  "description": "Inspired : https://dribbble.com/shots/5437467/attachments/5437467-Design-Portofolio?mode=media",
+  "main": "index.js",
+  "author": "pradana",
+  "license": "ISC"
 }
